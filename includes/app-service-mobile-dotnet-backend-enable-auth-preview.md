@@ -1,0 +1,2 @@
+
+>[AZURE.TIP]The authentication extension package is included in the quickstart extension package. 翻译了一句话。 To learn how to install and initialize authentication when not using the quickstart extension, see [How to: Add push notifications to a server project](../articles/app-service-mobile/app-service-mobile-dotnet-backend-how-to-use-server-sdk.md#how-to-add-authentication-to-a-server-project).<!--HONumber=Mar16_HO4-->
