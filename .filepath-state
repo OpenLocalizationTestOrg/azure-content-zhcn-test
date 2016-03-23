@@ -1,0 +1,92 @@
+{
+  "53d37262ffab23b2220a333bfa532e771a168e4d": [
+    "articles\\active-directory\\active-directory-aadconnect-account-summary.md"
+  ],
+  "e6b9aa893e6230542d1f6eb1f76c39e74face508": [
+    "articles\\app-service-api\\app-service-api-arm-existing-gateway-provision.md"
+  ],
+  "c5a71157a6f9f2caa78dea18e1b7de7ef08f65b9": [
+    "articles\\app-service-api\\app-service-api-dotnet-connect-to-saas.md"
+  ],
+  "c4f28fc8ccf205cc3a4f6f6879942837723360fc": [
+    "articles\\app-service-api\\media\\app-service-api-dotnet-connect-to-saas\\aadlogon.png"
+  ],
+  "9f6caaaf10fc7db3cdb991538149c17e7453dfe4": [
+    "articles\\app-service-api\\media\\app-service-api-dotnet-connect-to-saas\\authblade.png"
+  ],
+  "d8ea586c093e8c87ee7cfd2d5adbdc750f614cc8": [
+    "articles\\app-service-api\\media\\app-service-api-dotnet-connect-to-saas\\dbconsent.png"
+  ],
+  "8afdb20d26756394229e01e3ccd3e05b1cec44d5": [
+    "articles\\app-service-api\\media\\app-service-api-dotnet-connect-to-saas\\dblogon.png"
+  ],
+  "31ed07c030dea806fa65e127dff2d555de21931b": [
+    "articles\\app-service-api\\media\\app-service-api-dotnet-connect-to-saas\\gwurl.png"
+  ],
+  "48fdacd0d774a394f34e0e730061500ae978e0e4": [
+    "articles\\app-service-api\\media\\app-service-api-dotnet-connect-to-saas\\http405.png"
+  ],
+  "ff0cef6c6ac221a3e71caf4077b329519e238dbe": [
+    "articles\\app-service-api\\media\\app-service-api-dotnet-connect-to-saas\\saastoken.png"
+  ],
+  "7fa38f167d5e821d46eb167f8fff4f5a54df502a": [
+    "articles\\app-service-api\\media\\app-service-api-dotnet-connect-to-saas\\setref.png"
+  ],
+  "3b2d1b6115a75bf71491343ca5375de6ae234d24": [
+    "articles\\app-service-api\\media\\app-service-api-dotnet-connect-to-saas\\testclient.png"
+  ],
+  "89b9d263d13b9935473aec2f0def6c809ea30339": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md"
+  ],
+  "f56ffd93909f6bf59eec0a9de60a6d8113cb817f": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md"
+  ],
+  "4969ae5fcdf86474d18a84ca37ff47028b091798": [
+    "includes\\app-service-api-config-auth.md"
+  ],
+  "a5fad9283b0d76a910fd669114c46e97d52291a2": [
+    "includes\\app-service-api-create.md"
+  ],
+  "8c32edde8cdcdd5e6f581bc5549b5181f9080907": [
+    "includes\\app-service-api-create-dropbox-app.md"
+  ],
+  "8a7dafc6007eb9373d4c7e78d68a9774df46e765": [
+    "includes\\app-service-api-deploy-parameters.md"
+  ],
+  "cdac5efe1ce0dba5b52ae721f410ba5d73f33e12": [
+    "includes\\app-service-api-dotnet-add-generated-client.md"
+  ],
+  "6777b3cee4084801dac8c8597d0c99ddcc19a504": [
+    "includes\\app-service-api-exchange-dropbox-settings.md"
+  ],
+  "931f1df4b66d500897906d185cf8863747435bcd": [
+    "includes\\app-service-api-gateway-config-auth.md"
+  ],
+  "9c272c4385c7e558f04a90895d9fe54ca229fff0": [
+    "includes\\app-service-api-pub-web-create.md"
+  ],
+  "3abf39497734a0c59832b4973342248e1c8f53d4": [
+    "includes\\app-service-api-pub-web-deploy.md"
+  ],
+  "f898a9ed46792555d55843e05c60cda83c0a33e7": [
+    "includes\\app-service-deploy-commands.md"
+  ],
+  "98cddb50c235f7371170b75bb95ec1c99d6b3c82": [
+    "includes\\app-service-mobile-adal-register-app.md"
+  ],
+  "b73bac18b8c26265c7f153b6f6288c827dc5fd64": [
+    "includes\\app-service-mobile-dotnet-backend-enable-auth-preview.md"
+  ],
+  "2b6fe2c50b1760def88561a13aa8174c7273996e": [
+    "includes\\app-service-mobile-note-mobile-services-preview.md"
+  ],
+  "7daa9596ada8dc9ccd57ab7fe958600513595d90": [
+    "includes\\app-service-mobile-restrict-permissions-dotnet-backend.md"
+  ],
+  "6a8d5a486a5b42900962f471a69286ee1a374d2f": [
+    "includes\\app-service-mobile-selector-aad-sso.md"
+  ],
+  "c0081da864f57e633d821d1776e2e84dc12e1d07": [
+    "includes\\app-service-mobile-selector-push-users-preview.md"
+  ]
+}
